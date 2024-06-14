@@ -1,4 +1,4 @@
 id;name;image;price;release_date;lte_exists
 1;Samsung Galaxy S23;images/Samsungs23.png;55000;2023-02-10;True;
-2;Iphone 15;images/iPhone15.png;82000;2023-09-12;True;
+2;Iphone 15;images/iPhone15.png;8200;2023-09-12;True;
 3;ASUS ROG Phone 8 Pro;images/ASUSROGPhone8Pro.png;80000;2024-06-24;True;
